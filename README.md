@@ -1,6 +1,6 @@
 # 8-Day Weather Forecast Extractor with Network Log Analysis
 
-This project automates the process of capturing network logs and extracting weather forecast data for a specific city from the **OpenWeatherMap** website. It identifies forecast-related API calls and parses the HTML to retrieve 8-day weather data.
+This project automates the process of capturing network logs and extracting weather forecast data for a specific city from the **OpenWeatherMap** website. It identifies forecast-related API calls and parses the HTML to retrieve data into PDF.
 
 ---
 
